@@ -2,7 +2,7 @@
 date: '2021-12-26'
 title: 'Sitio Web Personal'
 github: 'https://github.com/lucasgustavodiaz/lucasdiaz'
-external: 'https://www.lucasdiaz.netlify.com/'
+external: 'https://lucasdiaz.netlify.app/'
 tech:
   - Gatsby
   - SCSS
