@@ -64,7 +64,7 @@ const Hero = () => {
   const four = (
     <>
       <p>
-        Soy profesor en Computación, graduado en la Universidad Nacional de La Pampa (
+        Soy profesor Universitario de Computación, graduado en la Universidad Nacional de La Pampa (
         <a href="http://www.exactas.unlpam.edu.ar/" target="_blank" rel="noreferrer">
           UNLPam
         </a>
