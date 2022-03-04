@@ -65,7 +65,7 @@ const Hero = () => {
     <>
       <p>
         Soy profesor Universitario en Computación, graduado en la Universidad Nacional de La Pampa (
-        <a href="https://http://www.exactas.unlpam.edu.ar/" target="_blank" rel="noreferrer">
+        <a href="http://www.exactas.unlpam.edu.ar/" target="_blank" rel="noreferrer">
           UNLPam
         </a>
         ), y me especializo en construir y diseñar experiencias digitales excepcionales.
