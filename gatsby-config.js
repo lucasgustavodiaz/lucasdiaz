@@ -4,10 +4,10 @@ module.exports = {
   siteMetadata: {
     title: 'Lucas Diaz',
     description:
-      'Brittany Chiang is a software engineer who specializes in building (and occasionally designing) exceptional digital experiences.',
-    siteUrl: 'https://brittanychiang.com', // No trailing slash allowed!
+      'Soy profesor Universitario de Computación, graduado en la Universidad Nacional de La Pampa (UNLPam), y me especializo en construir y diseñar experiencias digitales excepcionales.',
+    siteUrl: 'https://lucasdiaz.netlify.app', // No trailing slash allowed!
     image: '/og.png', // Path to your image you placed in the 'static' folder
-    twitterUsername: '@bchiang7',
+    twitterUsername: '@LucasGDiaz',
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
