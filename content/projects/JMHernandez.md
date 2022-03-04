@@ -2,7 +2,7 @@
 date: '2009-08-01'
 title: 'JM Hernandez'
 github: ''
-external: 'https://bchiang7.github.io/react-profile/'
+external: 'http://www.jmhernandez.com.ar'
 tech:
   - HTML
   - CSS
