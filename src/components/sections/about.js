@@ -137,14 +137,17 @@ const About = () => {
           <div>
             <p>
               Hola! Mi nombre es Lucas Diaz y disfruto crear cosas que viven en internet. Mi interés
-              en el desarrollo web comenzó en 2012 cuando decidí crear mi propia página como hobbie,
+              en el desarrollo web comenzó en 2012 cuando decidí crear mi propia página como hobby,
               al poco tiempo entré a trabajar en el portal de{' '}
               <a href="https://www.argentina.gob.ar/turismoydeportes">Turismo de la Nación</a> donde
               aprendí mucho sobre HTML y CSS!.
             </p>
 
             <p>
-            Avance rápido hasta hoy, y tuve el privilegio de trabajar en empresas con gran renombre, actualmente soy profesor universitario y referente de tecnologías educativas en en nivel secundario. Mi enfoque principal en estos días es crear productos y experiencias digitales accesibles e inclusivos para una gran variedad de clientes.
+              Avance rápido hasta hoy, y tuve el privilegio de trabajar en empresas con gran
+              renombre, actualmente soy profesor universitario y referente de tecnologías educativas
+              en en nivel secundario. Mi enfoque principal en estos días es crear productos y
+              experiencias digitales accesibles e inclusivos para una gran variedad de clientes.
             </p>
 
             <p>
