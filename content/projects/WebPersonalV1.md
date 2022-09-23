@@ -4,7 +4,7 @@ title: 'Sitio Web Personal'
 github: 'https://github.com/lucasgustavodiaz/lucasdiaz'
 external: 'https://lucasdiaz.netlify.app/'
 tech:
-  - Gatsby
+  - React
   - SCSS
   - JS
 showInProjects: true
